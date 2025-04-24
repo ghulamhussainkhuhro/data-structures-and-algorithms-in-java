@@ -45,8 +45,8 @@ The directories are organized **in a progressive learning order**:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/java-dsa.git
-   cd java-dsa
+   git clone https://github.com/ghulamhussainkhuhro/data-structures-and-algorithms-in-java.git
+   cd data-structures-and-algorithms-in-java
    ```
 
 2. **Open it in your IDE** (e.g., IntelliJ IDEA, Eclipse, VS Code with Java extensions).
